@@ -25,4 +25,4 @@
 
 
 #### 참고 사이트
-[프로그래머스](https://programmers.co.kr/learn/challenges), [백준](https://www.acmicpc.net/), [solved.ac](https://www.solved.ac/)
+[프로그래머스](https://programmers.co.kr/learn/challenges), [백준](https://www.acmicpc.net/), [solved.ac](https://solved.ac/)
