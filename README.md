@@ -22,3 +22,7 @@
 | 8주차     | 23.05.08(11)  |                                                                                          |            |
 | 9주차     | 23.05.15(12)  |                                                                                          |            |
 | 10주차    | 23.05.22(13)  |                                                                                          |            |
+
+
+#### 참고 사이트
+[프로그래머스](https://programmers.co.kr/learn/challenges), [백준](https://www.acmicpc.net/), [solved.ac](https://www.solved.ac/)
