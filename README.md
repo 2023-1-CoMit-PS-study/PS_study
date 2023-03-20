@@ -16,7 +16,7 @@
 | 1주차     | 23.03.07(2)   | OT                                                                                            | 김유현     |
 | 2주차     | 23.03.13(3)   | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)     | 조서연     |
 | 3주차     | 23.03.20(4)   | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  | 서강덕     |
-| 4주차     | 23.03.27(5)   | [메뉴 리뉴얼] (https://school.programmers.co.kr/learn/courses/30/lessons/72411)  | 신경준           |
+| 4주차     | 23.03.27(5)   | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)  | 신경준           |
 | 5주차     | 23.04.03(6)   |                                                                                               |            |
 | 6주차     | 23.04.24(9)   |                                                                                               |            |
 | 7주차     | 23.05.01(10)  |                                                                                               |            |
