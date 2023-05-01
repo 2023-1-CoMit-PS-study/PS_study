@@ -9,9 +9,9 @@ def solution(orders, course):
         for u in orders:
             comb += combinations(list(u), i) #각 주문마다 나올 수 있는 메뉴 조합을 담아줌
             
-        for u in range(len(comb)): # 중복 없애주기 위한 작업. (더 효율적인 방법이 있으려나?)
-            stt = "".join(comb[u])
-            tmpComb.append("".join(sorted(list(stt))))
+        for u in range(len(comb)): # 중복 없애주기 위한 작업. (더 효율적인 방법이 있으려나?) 
+            stt = "".join(comb[u]) 
+            tmpComb.append("".join(sorted(list(stt)))) 
         tmpComb = sorted(list(set(tmpComb))) 
 
         comb.clear() 
