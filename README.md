@@ -19,7 +19,7 @@
 | 4주차     | 23.03.27(5)   | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)                 | 신경준     |
 | 5주차     | 23.04.03(6)   | [게리맨더링](https://www.acmicpc.net/problem/17471)                                            | 김유현     |
 | 6주차     | 23.04.24(9)   |                                                                                               |            |
-| 7주차     | 23.05.01(10)  |                                                                                               |            |
+| 7주차     | 23.05.01(10)  | [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687#)                 | 신경준           |
 | 8주차     | 23.05.08(11)  |                                                                                               |            |
 | 9주차     | 23.05.15(12)  |                                                                                               |            |
 | 10주차    | 23.05.22(13)  |                                                                                               |            |
