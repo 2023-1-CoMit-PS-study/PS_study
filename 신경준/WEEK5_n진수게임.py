@@ -1,6 +1,4 @@
-
 AllList = [0]
-
 
 def jin(n, k, numCnt):
     # k진법 변환 알고리즘
@@ -34,7 +32,7 @@ def solution(n, t, m, p):
     deg = 1
     numCnt = 0
     
-    while numCnt < t*m + p +1:
+    while numCnt < t*m + p +1: #구해야 될 만큼만 돌기
         numCnt = jin(deg, n, numCnt)
         deg += 1
     
